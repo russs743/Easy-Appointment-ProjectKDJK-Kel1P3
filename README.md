@@ -120,23 +120,132 @@ page ini akan muncul
   - DB_NAME = nama database yang telah dibuat (bisa dicek diatas untuk bagian Databases)
   - DB_USERNAME = nama User yang telah dibuat (bisa dicek diatas untuk bagian Databases)
   - DB_PASSWORD = password yang sudah dibuat bersamaan dengan User (bisa dicek diatas untuk bagian Databases)
+    (optional) Kamu bisa mengubah BASE_URL tersebut dengan “http://namadomainanda.my.id/easyappoint. (.my.id bisa diubah tergantung dari domain anda kamu belinya apa).
+    
+![image](https://github.com/user-attachments/assets/f2ffb462-33cb-4515-b7a5-92f7eaa8750a)
+
+Setelah diedit, kamu bisa menyimpan ubahan tersebut ke SAVE CHANGES dengan tombol berwarna biru yang berada di bagian pojok kiri atas dari web
+
+![image](https://github.com/user-attachments/assets/a489bc37-ae71-47a1-b83d-45c9cdadbd64)
+
+KIta bisa pergi ke domain kita yang sudah dibuat (ex: https://kdjkkel1p3.my.id/easyappoint), saat pertama kali menelusuri domain tersebut, kita akan ditujukan kepada bagian installation dari Easy!Appointment.
+
+![image](https://github.com/user-attachments/assets/71d93d59-71d9-41f5-958d-269d1a6dc6de)
+
+Silahkan isi;
+  - First name & last name
+  - Email
+  - Phone Number
+  - Username & Password untuk login sebagai admin di domain tersebut
+  - Language (default English)
+  - Company Name, Email, dan Link
+Pergi ke bagian bawah web, dan install Easy!Appointments
+    
+![image](https://github.com/user-attachments/assets/3d85bc91-53fd-4cbd-883c-8d56748897f3)
+
+- Selamat datang di Easy!Appointments;
+  **Bagian Admin dari Web**
+
+  ![image](https://github.com/user-attachments/assets/3910c8d2-05ee-4254-af51-710e675c946a)
+
+  **Bagian User dari Web**
 
 
+![image](https://github.com/user-attachments/assets/9b6e3170-bf06-41f6-b198-249f43416306)
+
+## Otomatisasi:
+
+Untuk mempermudah Instalasi, kita bisa menginstall Easy!Appointments melalui Softaculous, cari dengan searchbar pada kategori others.
 
 
+![image](https://github.com/user-attachments/assets/588edf8f-890c-46a2-bdbb-646068aeb375)
 
+![image](https://github.com/user-attachments/assets/5ec26fa7-90bc-487d-a65c-37a4f23318bb)
 
+# Cara Pemakaian
 
+Setelah instalasi, pengguna dapat mengakses Easy!Appointments melalui browser dengan domain yang telah disebutkan. Antarmuka aplikasi akan menampilkan berbagai fungsi utama, termasuk:
+- Memilih Service dan Provider
 
+![image](https://github.com/user-attachments/assets/0639452b-90d1-4034-a988-d55bb47d5524)
 
+- Memilih tanggal dan waktu untuk janji temu dengan orang pada perusahaan tersebut, kita juga bisa memilih timezone sesuai dengan wilayahnya.
 
+![image](https://github.com/user-attachments/assets/5b379aaf-998f-4271-a3eb-3752cafe78b5)
 
+- Setelah memilih tanggal dan waktu janji temu, kita bisa menekan next. Setelah itu, kita bisa mengisi datamu yang ingin janji temu dengan orang di perusahaan tersebut.
 
+![image](https://github.com/user-attachments/assets/3366936a-0db3-4a77-9b83-8821179d6940)
 
+Setelah diisi, tekan next:
 
+![image](https://github.com/user-attachments/assets/4c401799-d844-4471-a4a8-2dfd28064de3)
 
+- Konfirmasi untuk data-data dan tanggal & waktu yang sesuai yang diinginkan, setelah itu tekan confirm. Jika ada kesalahan data, kita bisa tekan back untuk memperbaiki data yang salah
 
+![image](https://github.com/user-attachments/assets/88e86b83-ece5-40fd-adc7-228aceb832db)
 
+- Appointments sudah didata di dalam database! Kita bisa pergi ke Booking Page atau menyimpan di Google Calendar
 
+![image](https://github.com/user-attachments/assets/3a53e9a0-9603-4df4-bd93-9e7e9952d361)
 
+Tampilan kalendar:
 
+![image](https://github.com/user-attachments/assets/90208a2e-529f-42a1-886a-9f3c62296c2d)
+
+# Maintenance
+
+Saat kita ingin melakukan maintenance atau perbaikan dalam WebApp Easy!Appointments, tentunya kita tidak ingin customers atau pengguna melakukan aktivitas seperti membuat janji temu. Sebelum melakukan itu, mari kita matikan booking untuk sementara dengan caranya;
+- Pergi ke bagian depan WebApp atau bagian Calendar. Setelah itu, pergi ke bagian nama anda yang berada di pojok kiri atas. Lalu, pergi ke Settings.
+
+![image](https://github.com/user-attachments/assets/61f284b4-1c8a-4632-a741-d87197a62e05)
+
+![image](https://github.com/user-attachments/assets/e0263e34-bd45-4f74-9bf2-ed6093e37101)
+
+- Dibawah ini adalah tampilan dari Settings di Easy!Appointments, pergi ke bagian Booking Settings
+
+![image](https://github.com/user-attachments/assets/99932859-a15c-4caa-bf59-71bc02f8e8fa)
+
+- Pergi ke bagian bawah dari Web dan lihat bagian Options, bagian itu memiliki opsi yang bernama Disable Booking. Itu adalah bagian Maintenance untuk Easy!Appointment, tinggal tekan atau turn on untuk Disable Booking tersebut
+
+![image](https://github.com/user-attachments/assets/7db74feb-f962-4226-9dad-ca6ac99c4e31)
+
+![image](https://github.com/user-attachments/assets/34506163-93e0-453b-bfd8-31e9e07b7517)
+
+Jangan lupa untuk tekan save di bagian paling atas dari bagian tersebut sebelah tulisan Booking Settings
+
+![image](https://github.com/user-attachments/assets/f093490b-14a5-4b78-87bd-5dd37e44317e)
+
+- Tampilan ketika Easy!Appointments sedang Maintenance
+
+![image](https://github.com/user-attachments/assets/64dc2abc-94ce-49c0-891c-c492213aecff)
+
+saat Maintenance kamu bisa melakukan beberapa hal, seperti pada bawah ini:
+
+1. Menambah Fitur / Service Baru
+  - Pergi ke bagian Services
+
+    ![image](https://github.com/user-attachments/assets/d007c9b2-6abe-4454-92b8-e60cbe50c833)
+
+  - tekan service
+    
+    ![image](https://github.com/user-attachments/assets/06b22514-afce-4cb4-ae0f-d4526716e525)
+
+  - Tekan Add untuk menambah Services baru
+
+    ![image](https://github.com/user-attachments/assets/28d9c252-972f-445c-bc40-f4c1db93ae62)
+
+  - Isi dengan deskripsi yang telah dipikirkan
+
+    ![image](https://github.com/user-attachments/assets/18a534c6-6fb7-4161-b29b-72afe1cac4d4)
+
+    ![image](https://github.com/user-attachments/assets/cc21921f-0901-4a7b-8535-7235d631b267)
+
+    ![image](https://github.com/user-attachments/assets/819aa1e0-60e3-43ef-9ceb-eb720eebc9dc)
+    
+    Jangan lupa untuk tekan save di bagian atas
+  - service sudah ditambahkan
+
+    ![image](https://github.com/user-attachments/assets/9ca84aa6-5ff0-4674-a642-ef532bfcc38c)
+
+  
