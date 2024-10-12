@@ -1,58 +1,44 @@
 # Aplikasi Web "XYZ"
 
-
 ## Sekilas Tentang
-
 Deskripsi singkat tentang aplikasi tsb.
 
-
 ## Instalasi
-
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
+- Prasyarat: apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI.
 
-
 ## Konfigurasi (opsional)
-
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
+- Batas upload file
+- Batas memori
 - dll
 
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
+Plugin untuk fungsi tambahan:
+- Login dengan Google/Facebook
+- Editor Markdown
 - dll
 
-
-##  Maintenance (opsional)
-
+## Maintenance (opsional)
 Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
+- Buat backup database tiap pekan
+- Hapus direktori sampah tiap hari
 - dll
-
 
 ## Otomatisasi (opsional)
-
 Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
-
 ## Cara Pemakaian
-
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
-
 ## Pembahasan
-
-- Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
+- Pendapat anda tentang aplikasi web ini:
+    - Kelebihan
+    - Kekurangan
 - Bandingkan dengan aplikasi web lain yang sejenis
 
-
 ## Referensi
-
 Cantumkan tiap sumber informasi yang anda pakai.
+
+You can view and edit the file [here](https://github.com/russs743/Komdat-kel-5-P3/blob/17ad0b7f7b2ac7f1d2b88048539c1cae98e2c410/laporan).
