@@ -57,7 +57,7 @@ Sebelum menginstal Easy!Appointments, pastikan bahwa sistem memenuhi prasyarat b
     
 ![image](https://github.com/user-attachments/assets/447444a9-be9d-4931-8c03-f003433d632d)
 
-## proses instalasi
+## Proses Instalasi
 Kita bisa menginstall WebApp ini melalui cPanel, tapi sebelum itu, mari kita install folder Easy!Appointments terlebih dahulu:
 
 - Pergi ke GitHub Repository dari Easy!Appointments, lalu pergi ke bagian Code, yang ditunjukkan dengan tombol berwarna hijau tersebut
