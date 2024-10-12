@@ -247,5 +247,92 @@ saat Maintenance kamu bisa melakukan beberapa hal, seperti pada bawah ini:
   - service sudah ditambahkan
 
     ![image](https://github.com/user-attachments/assets/9ca84aa6-5ff0-4674-a642-ef532bfcc38c)
+2. Menambah Kategori Baru untuk Service yang Cocok
+  - Pergi ke Bagian Service seperti tadi, namun sekarang kita pergi ke bagian Categories
 
-  
+  ![image](https://github.com/user-attachments/assets/ac29478a-6abf-422d-8a4b-d475efa11b70)
+
+  - Tekan Add untuk menambah Kategori
+
+    ![image](https://github.com/user-attachments/assets/0c4b7f96-df50-4890-9c19-f805cb944926)
+
+  - Isi dengan Nama dan Deskripsi Kategori yang diinginkan, dan kategori berhasil ditambahkan
+
+    ![image](https://github.com/user-attachments/assets/c0a4c770-e5a6-40e6-8e7b-c4df40e500e3)
+
+3. Menambah / Menghapus Provider, Secretary dan Admin
+   - Pergi ke bagian Users, terdapat 3 bagian yaitu Provider, Secretary, dan Admin. Ketiganya memiliki kegiatan yang berbeda.
+
+     ![image](https://github.com/user-attachments/assets/3c782578-2fc1-4f1c-8874-7cb0821a416d)
+
+   - Tekan Add untuk menambah User;
+
+    ![image](https://github.com/user-attachments/assets/5852f1f3-50da-49af-81d6-682b5028e531)
+
+   - Isi data User...
+     - Untuk Provider
+
+       ![image](https://github.com/user-attachments/assets/a402f35f-00bf-4c6c-b475-cfec42cbb261)
+
+     - Untuk Secretary
+
+       ![image](https://github.com/user-attachments/assets/fdc28a65-1402-4688-b8b5-3025a5a07451)
+
+     - Untuk Admin
+
+       ![image](https://github.com/user-attachments/assets/90766ccd-2707-47d6-8f98-b30b8b3c2ba9)
+
+ 4. Merubah / Menghapus Jadwal
+      - Pergi ke Jadwal yang ingin diubah / dihapus, click jadwal tersebut
+
+        ![image](https://github.com/user-attachments/assets/13582eec-4dac-4b64-b527-51551821c3df)
+
+      - Akan muncul tampilan seperti ini, ada pilihan untuk edit dan delete
+
+        ![image](https://github.com/user-attachments/assets/b32f46e7-8480-4937-b70e-a92525faf2ed)
+
+      - Tampilan untuk edit appointment
+
+        ![image](https://github.com/user-attachments/assets/113166a2-4acf-4f65-9c5c-21104851fca3)
+
+      - Tampilan untuk menghapus appointment
+        akan diberikan konfirmasi sebelum menghapus
+
+        ![image](https://github.com/user-attachments/assets/4e3e2e9e-8352-4840-8fce-26bfc74434b0)
+
+        Jadwal berhasil dihapus
+
+
+        ![image](https://github.com/user-attachments/assets/01465065-c8ad-47c9-a664-c838cdfacfb6)
+
+5. Mengubah / menghapus Data Pribadi Customers
+     - Pergi ke bagian Customer
+
+       ![image](https://github.com/user-attachments/assets/1ea4515b-21a2-46cb-98b1-12ff660919cf)
+
+     - Pilih Customer yang ingin diubah datanya
+
+       ![image](https://github.com/user-attachments/assets/0a9fd6db-b8a3-4f33-b92e-d09733134102)
+
+       Tampilan ketika customer sudah dipilih
+
+
+       ![image](https://github.com/user-attachments/assets/ed8ada7e-9851-45a2-9b8c-fbac83ef7c68)
+
+     - Pilih edit atau delete di sebelah Add Customer
+       Tampilan edit
+
+       ![image](https://github.com/user-attachments/assets/36bb6c92-213e-4394-9960-10a96ded77ff)
+
+
+
+
+
+
+
+      
+
+      
+
+
+
