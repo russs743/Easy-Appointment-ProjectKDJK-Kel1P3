@@ -22,27 +22,35 @@ Sebelum menginstal Easy!Appointments, pastikan bahwa sistem memenuhi prasyarat b
 - PDO PHP Extension
 ## Database
 1. Kita bisa pergi ke cPanel; dan membuat Databases dan User. Sebelum itu, pergi ke bagian Databases dan klik MySQL Databases.
+   
    ![image](https://github.com/user-attachments/assets/c9c3865a-5de4-4f6c-83bd-9612b5bd776a)
    
 2. Kamu bisa membuat database untuk sebuah web. Sebelum itu, pergi ke bagian Create New Database. Kamu bisa masukkan nama databases sesuka hati kalian.
+   
 ![image](https://github.com/user-attachments/assets/9bb70fd7-00bd-453b-8fa1-94b88577d3f0)
 
 3. Database akan muncul di list Current Databases yang sudah dibuat
+   
    ![image](https://github.com/user-attachments/assets/47b994ae-152e-4641-a48e-388fca5d2a2f)
 
 4. Kamu juga bisa membuat User untuk Databases tersebut, tinggal masukkan nama dan password untuk User anda seperti Create New Databases sebelumnya
+   
 ![image](https://github.com/user-attachments/assets/ed1d64ef-1fed-4d14-a094-3e7ffbf33bc6)
 
 5. User telah dibuat dan terletak di list Current Users, berada di bagian paling bawah dari web
+    
 ![image](https://github.com/user-attachments/assets/ac8ea726-7639-47aa-b2ec-6d037ac6716e)
 
 6. Berikan permission untuk User kepada Database yang telah dibuat, sebelum itu pergi ke bagian Add User To Database
+    
 ![image](https://github.com/user-attachments/assets/b86bb339-218f-4aa2-a211-e10d58a86810)
 
 7. Kamu akan pergi ke bagian untuk memberikan privileges kepada User dari database yang telah dipilih, kamu hanya mengklik ALL PRIVILEGES untuk GRANT ALL PRIVILEGES kepada User tersebut
+    
 ![image](https://github.com/user-attachments/assets/929f05f1-cd0d-4fc9-bbed-86c5884b5011)
 
 8. Kamu bisa pergi kembali ke bagian depan cPanel, dan pergi ke bagian Databases. Jika kamu ingin memeriksa databases sudah ada di web tersebut, kamu tinggal pergi ke phpMyAdmin
+    
 ![image](https://github.com/user-attachments/assets/85d8d07a-46e4-4150-afff-68f1e05e5be7)
 
 9. Database sudah dibuat
