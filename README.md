@@ -324,15 +324,45 @@ saat Maintenance kamu bisa melakukan beberapa hal, seperti pada bawah ini:
 
        ![image](https://github.com/user-attachments/assets/36bb6c92-213e-4394-9960-10a96ded77ff)
 
+    - Tampilan konfirmasi ketika ingin mendelete customer
 
+      ![image](https://github.com/user-attachments/assets/535be74f-b41a-430a-bd85-50af03ad0875)
 
+      Customer berhasil didelete
 
+      ![image](https://github.com/user-attachments/assets/89fe644d-3037-4bcf-8ab5-a2019fc02f0f)
 
+Setelah maintenance jangan lupa untuk; 
+  1. Kembali ke bagian Settings
+  2. Booking Settings
+  3. Pergi ke bagian bawah sampai ke bagian Options
+  4. Cari Disable Booking
+  5. Turn off kembali Disable Booking tersebut.
 
+# Pembahasan
 
-      
+Kelebihan dari Easy!Appointments;
+1. Gratis dan Modifikasi. Dapat diakses tanpa biaya lisensi dan dapat diubah sesuai dengan persyaratan.
+2. Sinkronisasi. dapat disinkronkan dengan Google Calendar dan dengan mudah dapat disusun kembali.
+3. User-friendly. memudahkan penggunaan bahkan untuk pengguna yang kurang akrab dengan keterampilan teknis yang diperlukan.
+4. Jumlah Pengguna. memungkinkan pengguna yang banyak dan dengan peran yang berbeda dan tersusun untuk berbagai jenis layanan.
+5. Data pelanggan, riwayat janji, dan catatan.
+6. Pengingat otomatis dapat dikirim ke pengguna dan klien melalui email.
 
-      
+Kekurangan dari Easy!Appointments;
 
+1. Tidak ada API terperinci yang memungkinkan integrasi mudah dengan perangkat lunak lain. Ini tidak sekompleks solusi komersial yang lebih besar seperti appointment scheduling software premium.
+2. Tidak ideal untuk perusahaan besar. Terlalu sederhana untuk perusahaan besar dengan kebutuhan manajemen janji temu yang lebih kompleks, bahkan jika disesuaikan.
+3. Jika pengguna ingin menggunakan versi mandiri, mereka harus menyediakan server atau hosting mereka sendiri.
+4. Dukungan terbatas. Karena merupakan solusi open-source, dukungan resmi untuk solusi ini terbatas dan lebih mengandalkan komunitas.
+5. Tidak ada dukungan aplikasi perangkat seluler. Tidak ada dukungan aplikasi untuk perangkat seluler, meskipun antarmukanya dapat diakses melalui browser pada perangkat seluler.
 
+Hal yang membuat Easy!Appointment bisa dibandingkan dengan WebApp yang sejenis;
 
+1. Easy!Appointments adalah open-source, membuatnya menarik dibandingkan layanan berbayar seperti Acuity Scheduling atau Calendly, terutama untuk usaha kecil yang ingin solusi penjadwalan tanpa biaya berlangganan.
+2. Karena pengguna dapat meng-host sendiri, Easy!Appointments memberi kontrol penuh atas data dan penyesuaian. Ini berbeda dengan layanan SaaS (Software as a Service) seperti Calendly, di mana kustomisasi dan akses data sering dibatasi oleh platform.
+3. Easy!Appointments memiliki integrasi dengan Google Calendar, fitur yang juga ditawarkan oleh banyak penyedia lain, membuatnya kompetitif dalam hal kemudahan sinkronisasi jadwal.
+4. Mendukung banyak pengguna dan layanan, mirip dengan aplikasi seperti SimplyBook.me dan Setmore, menjadikannya cocok untuk bisnis yang membutuhkan sistem penjadwalan untuk beberapa staf atau layanan yang berbeda.
+5. Meskipun fitur-fiturnya tidak selengkap aplikasi komersial besar, antarmuka Easy!Appointments dirancang sederhana, mirip dengan layanan seperti 10to8 atau Doodle, yang fokus pada kemudahan penggunaan.
+6. Kemampuan untuk mengirim pengingat otomatis melalui email memberikan fungsi dasar yang sama dengan layanan premium seperti Appointy atau Zoho Bookings.
+7. Meskipun sederhana, Easy!Appointments menawarkan fitur manajemen klien dasar (riwayat janji, catatan pelanggan), menjadikannya sebanding dengan beberapa aplikasi penjadwalan yang lebih lengkap seperti Square Appointments.
