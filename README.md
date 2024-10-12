@@ -46,6 +46,7 @@ Sebelum menginstal Easy!Appointments, pastikan bahwa sistem memenuhi prasyarat b
 ![image](https://github.com/user-attachments/assets/85d8d07a-46e4-4150-afff-68f1e05e5be7)
 
 9. Database sudah dibuat
+    
 ![image](https://github.com/user-attachments/assets/447444a9-be9d-4931-8c03-f003433d632d)
 
 ## proses instalasi
