@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1f26bfae-f582-4bf8-a52c-bf4c541e00f5)# Easy!Appointments Kelompok 1 P3
+# Easy!Appointments Kelompok 1 P3
 ## sekilas tentang
   Easy!Appointments adalah aplikasi web yang sangat dapat disesuaikan yang memungkinkan pelanggan membuat janji temu dengan Anda melalui antarmuka web yang canggih. Selain itu, ia menyediakan kemampuan untuk menyinkronkan data Anda dengan Google Kalender sehingga Anda dapat menggunakannya dengan layanan lain. Ini adalah proyek sumber terbuka yang dapat Anda unduh dan instal bahkan untuk penggunaan komersial. Easy!Appointments akan berjalan lancar dengan situs web Anda yang ada karena dapat diinstal dalam satu folder server dan tentu saja berbagi database yang ada.
 ## Fitur
