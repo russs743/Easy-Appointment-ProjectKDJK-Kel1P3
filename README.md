@@ -104,7 +104,22 @@ Kita bisa menginstall WebApp ini melalui cPanel, tapi sebelum itu, mari kita ins
 ![image](https://github.com/user-attachments/assets/7c316aa8-68c8-425a-9535-85006284763e)
 
 - Klik config.php, kita bisa mengedit file tersebut. Sebelum itu klik file dan pergi untuk edit yang telah digaris bawahi
+  
+![image](https://github.com/user-attachments/assets/9315ec7d-4d14-44a6-932f-4b69eea8621c)
 
+klik edit
+
+![image](https://github.com/user-attachments/assets/fa6281c9-32ba-4868-b8fe-d16cb4a36c5b)
+
+page ini akan muncul
+
+![image](https://github.com/user-attachments/assets/e78eb353-0b54-441b-8118-af4353b5fd9d)
+
+- Kita bisa pergi ke bagian DATABASE SETTINGS dari config.php tersebut. Setelah itu, kita bisa memasukkan:
+  - DB_HOST = ‘localhost’; (default akan 127.0.0.1 atau localhost)
+  - DB_NAME = nama database yang telah dibuat (bisa dicek diatas untuk bagian Databases)
+  - DB_USERNAME = nama User yang telah dibuat (bisa dicek diatas untuk bagian Databases)
+  - DB_PASSWORD = password yang sudah dibuat bersamaan dengan User (bisa dicek diatas untuk bagian Databases)
 
 
 
