@@ -52,36 +52,46 @@ Sebelum menginstal Easy!Appointments, pastikan bahwa sistem memenuhi prasyarat b
 Kita bisa menginstall WebApp ini melalui cPanel, tapi sebelum itu, mari kita install folder Easy!Appointments terlebih dahulu:
 
 - Pergi ke GitHub Repository dari Easy!Appointments, lalu pergi ke bagian Code, yang ditunjukkan dengan tombol berwarna hijau tersebut
+  
 ![image](https://github.com/user-attachments/assets/20fb8f01-8342-4b65-87f1-4b747a868643)
 
 - Lalu pergi untuk mendownload format ZIP dari folder Easy!Appointments
+  
 ![image](https://github.com/user-attachments/assets/10baf9fc-095f-4389-8989-7b23380578be)
 
 - Folder WebApp sudah didownload
+  
 ![image](https://github.com/user-attachments/assets/bac25688-344a-4fa2-bc17-306c5c492de7)
 
 - Setelah itu kita pergi ke cPanel, dan pergi ke bagian Files. Setelah itu, pergi ke File Manager
+  
 ![image](https://github.com/user-attachments/assets/2a118a3a-ec3e-41f1-ac7c-1241ad0e387f)
 ![image](https://github.com/user-attachments/assets/10c6a243-a3a8-4466-8fea-aea2ab1961a2)
 
 - Kita bisa mengupload ZIP dari Easy!Appointments yang telah kita download. Sebelum itu, kita pergi ke bagian Upload yang telah digaris bawahi tersebut.
+  
 ![image](https://github.com/user-attachments/assets/d0c3c60e-fd69-4172-a5f8-4c8f9a66b004)
 
 - Kita bisa pergi ke Select File untuk mengupload dari PC
+  
 ![image](https://github.com/user-attachments/assets/bdadfa9b-9b59-4027-bf52-6deab585d3dd)
 
 - Cari folder ZIP dari Easy!Appointment, dan pilih untuk Upload
+  
 ![image](https://github.com/user-attachments/assets/9de659d7-10b6-4a53-a289-b59ce06c05f1)
 
 - Kita menunggu folder ZIP diupload, setelah diupload. Kita kembali ke bagian FIle Manager dengan pergi ke bagian yang telah digaris bawahi.
+  
 ![image](https://github.com/user-attachments/assets/52495b66-6fcd-44f9-a389-f8378dc680d2)
 
 - Setelah file ZIP diupload, kita bisa mengekstrak folder tersebut. Kamu tinggal pilih file ZIP dan klik kanan mouse kalian, klik Extract untuk mengekstrak file tersebut. Klik Extract Files dan Folder akan muncul.
+  
 ![image](https://github.com/user-attachments/assets/d716dc94-a86e-4385-9baa-60fc4954bd99)
 ![image](https://github.com/user-attachments/assets/555e0122-5561-4ebe-9059-8931f521c494)
 ![image](https://github.com/user-attachments/assets/43bce1c7-be2f-43d9-8c2f-046f03e74bc0)
 
 - Sebelum itu, mari kita pergi folder Easy!Appointments, dan kita bisa klik config-sample.php di bagian terdepan folder, edit nama/rename dari file tersebut menjadi config.php.
+  
 ![image](https://github.com/user-attachments/assets/7c316aa8-68c8-425a-9535-85006284763e)
 
 - Klik config.php, kita bisa mengedit file tersebut. Sebelum itu klik file dan pergi untuk edit yang telah digaris bawahi
