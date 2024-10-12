@@ -23,5 +23,7 @@ Sebelum menginstal Easy!Appointments, pastikan bahwa sistem memenuhi prasyarat b
 ## Database
 1. Kita bisa pergi ke cPanel; dan membuat Databases dan User. Sebelum itu, pergi ke bagian Databases dan klik MySQL Databases.
    ![image](https://github.com/user-attachments/assets/c9c3865a-5de4-4f6c-83bd-9612b5bd776a)
-
+   
+2. Kamu bisa membuat database untuk sebuah web. Sebelum itu, pergi ke bagian Create New Database. Kamu bisa masukkan nama databases sesuka hati kalian.
+![image](https://github.com/user-attachments/assets/9bb70fd7-00bd-453b-8fa1-94b88577d3f0)
 
