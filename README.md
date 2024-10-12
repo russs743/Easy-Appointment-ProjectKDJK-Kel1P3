@@ -6,7 +6,7 @@
 Anggota Kelompok 1 - P3:
 | Nama                     | NIM        |
 |--------------------------|------------|
-| Muhammad Irsyad Fadhllah  | G6401221053  |
+| Muhammad Irsyad Fadhillah  | G6401221053  |
 | Vergiawan Zhaki Rasendria | G6401221101  |
 | Rusydi Balfas             | G6401221104  |
 | Muhammad Eishaf Athallah  | G6401221105  |
