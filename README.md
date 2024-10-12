@@ -1,5 +1,5 @@
 # Easy!Appointments Kelompok 1 P3
-## sekilas tentang
+## Sekilas Tentang
   Easy!Appointments adalah aplikasi web yang sangat dapat disesuaikan yang memungkinkan pelanggan membuat janji temu dengan Anda melalui antarmuka web yang canggih. Selain itu, ia menyediakan kemampuan untuk menyinkronkan data Anda dengan Google Kalender sehingga Anda dapat menggunakannya dengan layanan lain. Ini adalah proyek sumber terbuka yang dapat Anda unduh dan instal bahkan untuk penggunaan komersial. Easy!Appointments akan berjalan lancar dengan situs web Anda yang ada karena dapat diinstal dalam satu folder server dan tentu saja berbagi database yang ada.
 ## Fitur
 Aplikasi ini dirancang cukup fleksibel sehingga dapat menangani alur kerja perusahaan apa pun.
@@ -366,3 +366,9 @@ Hal yang membuat Easy!Appointment bisa dibandingkan dengan WebApp yang sejenis;
 5. Meskipun fitur-fiturnya tidak selengkap aplikasi komersial besar, antarmuka Easy!Appointments dirancang sederhana, mirip dengan layanan seperti 10to8 atau Doodle, yang fokus pada kemudahan penggunaan.
 6. Kemampuan untuk mengirim pengingat otomatis melalui email memberikan fungsi dasar yang sama dengan layanan premium seperti Appointy atau Zoho Bookings.
 7. Meskipun sederhana, Easy!Appointments menawarkan fitur manajemen klien dasar (riwayat janji, catatan pelanggan), menjadikannya sebanding dengan beberapa aplikasi penjadwalan yang lebih lengkap seperti Square Appointments.
+
+# Referensi
+- https://github.com/alextselegidis/easyappointments.git
+- https://easyappointments.org/
+- https://developers.easyappointments.org/
+- https://www.youtube.com/watch?v=_UI7ihEWk6k
